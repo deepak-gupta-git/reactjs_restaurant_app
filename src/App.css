@@ -1,0 +1,34 @@
+.card img{
+    height: 150px;
+    padding: 5px;
+    background-size: cover;
+    
+}
+
+*{
+    background-color: rgb(252, 254, 255);
+}
+
+h1{
+    text-align: center;
+    padding: 20px;
+}
+.buttons{
+    text-align: center;
+    padding: 10px;
+}
+
+.cards{
+    padding: 20px;
+    display: flex;
+   justify-content: space-evenly;
+}
+
+.card{
+    /* gap: 2rem; */
+    margin: 2rem;
+}
+
+button{
+    margin: 20px;
+}
